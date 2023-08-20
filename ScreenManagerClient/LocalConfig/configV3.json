@@ -1,0 +1,8 @@
+{
+  "UpdatePeriod": {
+    "Seconds": 20
+  },
+  "RemoteConfigCopy": {
+    "RemoteConfig": null
+  }
+}
